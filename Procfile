@@ -1,1 +1,1 @@
-web: node . --server
+worker: bash install.sh
